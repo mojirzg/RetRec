@@ -20,6 +20,10 @@ import rx.Subscriber
 
 class MainActivity : AppCompatActivity() {
 
+
+    //http://www.jsonschema2pojo.org/
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
